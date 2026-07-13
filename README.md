@@ -63,30 +63,40 @@ graph TD
 ```
 
 ### 1. 정규성 검정 (`1_Shapiro-Wilk_Test.py`)
-- **목적**: 각 입력 방식(Way of working)과 평가 요소(Evaluation factors: Embodiment, Immersion, Agency)별 점수 분포가 정규분포를 따르는지 검정합니다.
+- 목적: 각 입력 방식(Way of working)과 평가 요소(Evaluation factors: Embodiment, Immersion, Agency)별 점수 분포가 정규분포를 따르는지 검정합니다.
 - **판정 기준**:
   - $p > 0.05$ : 정규성 만족 (`normalization` = `yes`)
   - $p \le 0.05$ : 정규성 만족하지 않음 (`normalization` = `No`)
 
+
+
 ### 2. 조건 평가 (`2_Friedman.py`)
-- **목적**: 입력 방식에 따른 평가 요소별 점수의 유의미한 차이가 있는지 확인합니다.
-- **검정 방법 선택**:
+- 목적: 입력 방식에 따른 평가 요소별 점수의 유의미한 차이가 있는지 확인합니다.
+- 검정 방법 선택:
   - **정규성 만족 (`yes`)**: **Repeated Measures ANOVA** (반복측정 분산분석) 수행
   - **정규성 불만족 (`No`)**: **Friedman Test** (비모수 검정) 수행
 - **판정 기준**: $p < 0.05$ 일 때 조건 간 유의미한 차이가 있는 것으로 판정 (`Significant` = `yes`)
 
+
+
 ### 3. 사후 분석 (`3_Post_hoc.py`)
-- **목적**: 조건 간의 구체적인 차이를 규명하기 위해 일대일(Pairwise) 비교를 수행합니다.
-- **검정 방법**: **Wilcoxon signed-rank test** (양측 검정, zero_method='wilcox')
+- 목적: 조건 간의 구체적인 차이를 규명하기 위해 일대일(Pairwise) 비교를 수행합니다.
+- 검정 방법: **Wilcoxon signed-rank test** (양측 검정, zero_method='wilcox')
 - **다중 비교 보정**: 1종 오류(Type I Error) 증가를 방지하기 위해 **Holm 보정(Holm-Bonferroni method)**을 적용합니다.
 
+
+
 ### 4. 시각화 및 결과 저장 (`4_Vis_Post-mortem.py` & `4_Vis_Post-mortem_all.py`)
-- **개별 시각화 (`4_Vis_Post-mortem.py`)**: 각 평가 요소별 Boxplot을 생성하고, 사후분석 결과 유의미한 차이가 있는 비교 쌍에 대해 `statannotations.Annotator`를 사용해 별표(`*`, `**`, `***`) 주석을 자동으로 추가하여 저장합니다.
-- **종합 시각화 (`4_Vis_Post-mortem_all.py`)**: Agency, Embodiment, Immersion 세 가지 요소를 한 그래프에 모아 입력 방식별로 비교하는 Grouped Boxplot을 생성하고 사후분석 주석을 표기합니다.
+- 개별 시각화 (`4_Vis_Post-mortem.py`)**: 각 평가 요소별 Boxplot을 생성하고, 사후분석 결과 유의미한 차이가 있는 비교 쌍에 대해 `statannotations.Annotator`를 사용해 별표(`*`, `**`, `***`) 주석을 자동으로 추가하여 저장합니다.
+- 종합 시각화 (`4_Vis_Post-mortem_all.py`)**: Agency, Embodiment, Immersion 세 가지 요소를 한 그래프에 모아 입력 방식별로 비교하는 Grouped Boxplot을 생성하고 사후분석 주석을 표기합니다.
+
+
 
 ### 5. 선호도 설문 시각화 (`5_Vis_Preference.py`)
-- **목적**: 사용자가 직접 선택한 선호 입력 방식("컨트롤러 직접", "컨트롤러 레이캐스팅", "핸드트래킹", "손목회전")에 대한 문항별 응답 비율을 백분율로 환산하여 **Stacked Bar Chart**로 시각화합니다.
-- **결과**: `Preference_Visualization` 폴더 내에 시각화 이미지와 엑셀 집계 데이터를 저장합니다.
+- 목적: 사용자가 직접 선택한 선호 입력 방식("컨트롤러 직접", "컨트롤러 레이캐스팅", "핸드트래킹", "손목회전")에 대한 문항별 응답 비율을 백분율로 환산하여 **Stacked Bar Chart**로 시각화합니다.
+- 결과: `Preference_Visualization` 폴더 내에 시각화 이미지와 엑셀 집계 데이터를 저장합니다.
+
+
 
 ---
 
