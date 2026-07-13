@@ -22,6 +22,7 @@
 │   └── 📄 Shapiro_Test.py           # (테스트용) 샤피로-윌크 검정 검증 스크립트
 │
 ├── 📊 VR_Interactions(응답).xlsx     # 설문 응답 원본 및 종합 분석 엑셀 데이터
+│       구글 시트 : https://docs.google.com/spreadsheets/d/101oOURndPKaQ86eVRk13mVtfGzbAHlX7VOADIec8h7g/edit?gid=565853200#gid=565853200
 └── 📄 README.md                     # 본 문서
 ```
 
