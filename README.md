@@ -22,13 +22,14 @@
 │   └── 📄 Shapiro_Test.py           # (테스트용) 샤피로-윌크 검정 검증 스크립트
 │
 ├── 📊 VR_Interactions(응답).xlsx     # 설문 응답 원본 및 종합 분석 엑셀 데이터
-│       구글 시트 : https://docs.google.com/spreadsheets/d/101oOURndPKaQ86eVRk13mVtfGzbAHlX7VOADIec8h7g/edit?gid=565853200#gid=565853200
 └── 📄 README.md                     # 본 문서
 ```
+
 
 ---
 
 ## 📊 데이터셋 설명 (`VR_Interactions(응답).xlsx`)
+설문 응답 원본 및 종합 분석 엑셀 파일 | [👉 구글 시트 바로가기](https://docs.google.com/spreadsheets/d/101oOURndPKaQ86eVRk13mVtfGzbAHlX7VOADIec8h7g/edit?gid=565853200#gid=565853200) |
 
 이 데이터셋은 참가자들의 VR 인터랙션 실험에 대한 설문 및 시간 기록 데이터를 포함하고 있으며, 다음과 같은 시트들로 구성되어 있습니다.
 
