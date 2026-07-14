@@ -1,5 +1,0 @@
-Shapiro-Wilk test로 정규성 확인 
-
--> (비정규) ART+ANOVA 또는 Friedman test 으로 조건 평가 / (정규) Repeated measures ANOVA
-
--> post-hoc analysis Wilcoxon signed-rank tests (correction: Holm(추천, 더 많은 p값을 유의하다고 판정) or Bonferroni; )

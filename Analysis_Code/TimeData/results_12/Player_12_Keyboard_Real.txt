@@ -1,0 +1,7 @@
+peek out the window
+2.864
+we drive on parkways
+6.972
+the dog will bite you
+3.826
+Total Time: 13.662

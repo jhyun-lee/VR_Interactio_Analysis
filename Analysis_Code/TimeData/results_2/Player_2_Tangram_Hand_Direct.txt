@@ -1,0 +1,11 @@
+Rocket
+53.134
+Crab
+55.731
+Bridge
+53.023
+Tree
+44.622
+Plane
+56.565
+Total Time: 263.075

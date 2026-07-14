@@ -1,0 +1,11 @@
+Butteryfly
+38.635
+Camel
+29.816
+Crab
+28.164
+Plane
+32.705
+Rabbit
+28.998
+Total Time: 158.319

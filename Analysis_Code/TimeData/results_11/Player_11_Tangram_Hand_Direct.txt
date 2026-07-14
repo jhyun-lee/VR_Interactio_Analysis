@@ -1,0 +1,11 @@
+Rocket
+94.292
+Plane
+51.013
+Camel
+48.000
+Butteryfly
+129.042
+Mountains
+80.651
+Total Time: 402.998

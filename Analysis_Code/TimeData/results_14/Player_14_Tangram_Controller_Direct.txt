@@ -1,0 +1,11 @@
+Stairway
+31.236
+Plane
+26.930
+Tree
+46.721
+Mountains
+39.473
+Crab
+31.763
+Total Time: 176.122

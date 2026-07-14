@@ -1,0 +1,11 @@
+Mountains
+48.625
+Crab
+44.459
+Camel
+27.055
+Rabbit
+43.569
+Cat
+45.125
+Total Time: 208.831

@@ -1,0 +1,11 @@
+Camel
+76.515
+Heart
+51.042
+Rocket
+33.486
+Mountains
+39.805
+Fish
+79.598
+Total Time: 280.445

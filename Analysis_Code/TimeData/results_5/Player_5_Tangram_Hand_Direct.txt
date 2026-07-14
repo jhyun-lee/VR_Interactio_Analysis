@@ -1,0 +1,11 @@
+Fish
+75.402
+Mountains
+37.929
+Swan
+47.790
+Bridge
+37.110
+House
+35.819
+Total Time: 234.051

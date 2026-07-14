@@ -1,0 +1,11 @@
+Mountains
+56.986
+House
+41.208
+Plane
+37.445
+Rabbit
+35.764
+Fish
+28.251
+Total Time: 199.653

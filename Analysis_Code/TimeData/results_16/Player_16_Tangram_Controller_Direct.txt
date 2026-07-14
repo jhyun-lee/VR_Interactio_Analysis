@@ -1,0 +1,11 @@
+Rabbit
+53.458
+Cat
+40.611
+Heart
+32.735
+Rocket
+34.431
+Fish
+28.833
+Total Time: 190.069

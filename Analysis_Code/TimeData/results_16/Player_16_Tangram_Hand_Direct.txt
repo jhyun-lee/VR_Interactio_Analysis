@@ -1,0 +1,11 @@
+Bridge
+52.416
+Mountains
+60.737
+Tree
+59.028
+Swan
+59.625
+Crab
+27.555
+Total Time: 259.361

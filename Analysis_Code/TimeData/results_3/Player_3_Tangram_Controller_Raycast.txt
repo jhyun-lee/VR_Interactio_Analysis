@@ -1,0 +1,11 @@
+Tree
+39.541
+Rabbit
+40.638
+Cat
+39.749
+Stairway
+47.096
+Fish
+39.930
+Total Time: 206.954

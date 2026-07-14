@@ -1,0 +1,11 @@
+House
+140.291
+Bridge
+128.236
+Cat
+89.540
+Stairway
+97.943
+Plane
+65.347
+Total Time: 521.358

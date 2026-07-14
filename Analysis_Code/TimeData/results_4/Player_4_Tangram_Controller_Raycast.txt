@@ -1,0 +1,11 @@
+Rocket
+28.665
+Butteryfly
+56.578
+Cat
+47.732
+Rabbit
+31.513
+Camel
+23.984
+Total Time: 188.472

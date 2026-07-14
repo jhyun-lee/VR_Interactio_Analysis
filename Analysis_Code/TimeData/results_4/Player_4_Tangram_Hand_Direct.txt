@@ -1,0 +1,11 @@
+Fish
+30.039
+Stairway
+37.170
+Tree
+41.196
+Bridge
+33.873
+House
+22.373
+Total Time: 164.651

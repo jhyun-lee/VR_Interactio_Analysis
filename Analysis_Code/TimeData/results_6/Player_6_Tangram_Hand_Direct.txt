@@ -1,0 +1,11 @@
+Tree
+86.486
+House
+54.083
+Swan
+97.458
+Bridge
+58.915
+Fish
+59.027
+Total Time: 355.969

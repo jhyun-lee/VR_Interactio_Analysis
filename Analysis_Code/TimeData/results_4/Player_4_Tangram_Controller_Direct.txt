@@ -1,0 +1,11 @@
+Swan
+42.052
+Heart
+26.554
+Mountains
+21.957
+Crab
+26.999
+Plane
+19.540
+Total Time: 137.101

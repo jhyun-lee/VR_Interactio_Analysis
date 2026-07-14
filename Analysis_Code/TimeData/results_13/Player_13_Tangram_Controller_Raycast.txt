@@ -1,0 +1,11 @@
+Stairway
+47.388
+Mountains
+66.347
+Crab
+36.959
+Cat
+64.096
+Rocket
+27.110
+Total Time: 241.900

@@ -1,0 +1,11 @@
+Heart
+103.458
+Camel
+55.083
+Tree
+125.249
+Mountains
+125.625
+Fish
+158.027
+Total Time: 567.442

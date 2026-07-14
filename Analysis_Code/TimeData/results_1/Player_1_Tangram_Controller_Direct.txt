@@ -1,0 +1,11 @@
+Swan
+40.774
+Butteryfly
+60.355
+Rabbit
+37.344
+Cat
+31.331
+Camel
+27.080
+Total Time: 196.884

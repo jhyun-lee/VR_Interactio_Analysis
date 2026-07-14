@@ -1,0 +1,11 @@
+Camel
+60.111
+Bridge
+63.930
+Fish
+53.764
+Mountains
+59.111
+Tree
+46.333
+Total Time: 283.249

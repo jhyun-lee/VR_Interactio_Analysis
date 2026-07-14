@@ -1,0 +1,11 @@
+Camel
+59.314
+Stairway
+49.038
+Mountains
+43.093
+Cat
+44.094
+Rabbit
+31.955
+Total Time: 227.494

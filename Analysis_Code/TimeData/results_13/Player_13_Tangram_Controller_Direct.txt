@@ -1,0 +1,11 @@
+Rabbit
+31.388
+Butteryfly
+27.347
+Tree
+32.361
+Fish
+18.458
+Bridge
+18.792
+Total Time: 128.345

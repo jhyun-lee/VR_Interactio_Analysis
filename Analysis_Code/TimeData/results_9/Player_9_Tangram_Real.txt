@@ -1,0 +1,11 @@
+Apple
+11.93
+Duck
+18.69
+Pigeon
+13.73
+Swan2
+14.91
+Tree2
+16.95
+Total Time: 76.21

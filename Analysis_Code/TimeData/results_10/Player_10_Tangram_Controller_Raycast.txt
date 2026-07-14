@@ -1,0 +1,11 @@
+Bridge
+38.222
+Fish
+29.055
+Cat
+38.305
+Tree
+30.041
+Crab
+31.764
+Total Time: 167.388

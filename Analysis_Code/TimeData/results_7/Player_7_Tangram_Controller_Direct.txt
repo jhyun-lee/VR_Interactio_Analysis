@@ -1,0 +1,11 @@
+Rabbit
+64.013
+Crab
+53.957
+Rocket
+37.152
+Swan
+41.471
+Butteryfly
+44.527
+Total Time: 241.121

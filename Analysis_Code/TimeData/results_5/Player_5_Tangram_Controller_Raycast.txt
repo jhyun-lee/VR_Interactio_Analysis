@@ -1,0 +1,11 @@
+Rabbit
+44.111
+Heart
+60.028
+Camel
+36.611
+Butteryfly
+41.152
+Crab
+40.541
+Total Time: 222.444

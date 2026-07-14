@@ -1,0 +1,11 @@
+Swan
+42.068
+Bridge
+32.665
+Heart
+34.361
+Crab
+23.541
+Camel
+44.638
+Total Time: 177.274

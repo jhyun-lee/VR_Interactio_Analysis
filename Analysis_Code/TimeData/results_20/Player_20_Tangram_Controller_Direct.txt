@@ -1,0 +1,11 @@
+Plane
+34.582
+Crab
+28.208
+Bridge
+34.402
+Swan
+37.694
+Rabbit
+33.430
+Total Time: 168.316

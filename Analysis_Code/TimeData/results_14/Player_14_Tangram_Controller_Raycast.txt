@@ -1,0 +1,11 @@
+Camel
+55.666
+Rabbit
+37.750
+Fish
+36.055
+Cat
+39.514
+Bridge
+44.750
+Total Time: 213.736

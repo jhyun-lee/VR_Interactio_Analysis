@@ -1,0 +1,11 @@
+Mountains
+63.509
+Crab
+33.678
+Heart
+44.232
+Stairway
+54.231
+House
+34.302
+Total Time: 229.951

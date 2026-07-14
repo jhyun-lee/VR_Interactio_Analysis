@@ -1,0 +1,11 @@
+Rocket
+44.555
+Mountains
+48.792
+Camel
+48.279
+Heart
+39.027
+Butteryfly
+47.361
+Total Time: 228.013

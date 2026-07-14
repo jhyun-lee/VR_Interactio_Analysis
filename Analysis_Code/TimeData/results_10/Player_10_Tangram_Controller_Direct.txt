@@ -1,0 +1,11 @@
+Plane
+31.528
+Butteryfly
+25.416
+Mountains
+22.110
+Rabbit
+22.556
+House
+26.097
+Total Time: 127.708

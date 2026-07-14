@@ -1,0 +1,11 @@
+Stairway
+106.805
+Heart
+70.652
+Crab
+81.971
+Swan
+82.471
+Tree
+77.750
+Total Time: 419.649

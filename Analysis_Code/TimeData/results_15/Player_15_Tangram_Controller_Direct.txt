@@ -1,0 +1,11 @@
+Swan
+41.777
+Stairway
+26.819
+Tree
+27.333
+Bridge
+51.125
+Rocket
+29.083
+Total Time: 176.136

@@ -1,0 +1,11 @@
+Cat
+37.096
+Plane
+27.221
+Rocket
+22.097
+Stairway
+26.889
+Tree
+27.541
+Total Time: 140.844

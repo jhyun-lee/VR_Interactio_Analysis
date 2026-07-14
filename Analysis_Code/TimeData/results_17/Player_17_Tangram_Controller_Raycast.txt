@@ -1,0 +1,11 @@
+Fish
+40.177
+Rocket
+27.761
+Mountains
+28.955
+Tree
+33.913
+House
+22.526
+Total Time: 153.332

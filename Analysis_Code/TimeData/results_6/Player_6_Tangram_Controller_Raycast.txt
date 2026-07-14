@@ -1,0 +1,11 @@
+Mountains
+48.403
+Cat
+69.665
+Camel
+33.832
+Butteryfly
+44.930
+Stairway
+49.985
+Total Time: 246.815

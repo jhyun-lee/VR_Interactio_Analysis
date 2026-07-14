@@ -1,0 +1,11 @@
+Fish
+49.675
+Heart
+59.606
+House
+59.453
+Swan
+47.593
+Butteryfly
+44.941
+Total Time: 261.267

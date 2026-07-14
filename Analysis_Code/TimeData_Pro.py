@@ -4,14 +4,11 @@ import re
 from pathlib import Path
 from collections import defaultdict
 
-# 기본 경로 설정
-base_dir = Path("TimeData")  # Main 폴더가 현재 스크립트 위치와 동일한 경로에 있어야 함
+base_dir = Path("TimeData")
 
-# 저장 구조
 data_structure = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
 valid_conditions = ["Controller_Direct", "Controller_Raycast", "Hand_Direct", "Real", "Wrist"]
 
-# 디렉토리 순회 및 데이터 수집
 for root, _, files in os.walk(base_dir):
     for file in files:
         match = re.match(r"Player_\d+_(Keyboard|Tangram|Videoplayer)_(.+)\.txt", file)
@@ -39,9 +36,8 @@ for root, _, files in os.walk(base_dir):
 
             data_structure[task][condition][dir_idx] = numeric_values
 
-# 엑셀 파일 저장 (조건별 시트 + Summary)
 for task, condition_data in data_structure.items():
-    save_path = os.path.join(base_dir,f"{task}_TimeData.xlsx")
+    save_path = os.path.join(base_dir, f"{task}_TimeData.xlsx")
     summary_dict = {}
 
     with pd.ExcelWriter(save_path, engine="openpyxl") as writer:
@@ -57,12 +53,10 @@ for task, condition_data in data_structure.items():
 
             df.to_excel(writer, sheet_name=condition[:31], index=False)
 
-            # 행 단위 평균 계산 (skipna=True)
             row_means = df.mean(axis=1, skipna=True)
             summary_dict[condition] = row_means
 
-        # Summary 시트 작성
         summary_df = pd.DataFrame(summary_dict)
         summary_df.to_excel(writer, sheet_name="Summary", index=False)
 
-    print(f"✅ {save_path} 생성 완료")
+    print(f"{save_path} 생성 완료")

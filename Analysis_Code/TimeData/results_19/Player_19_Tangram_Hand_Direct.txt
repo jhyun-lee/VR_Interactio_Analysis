@@ -1,0 +1,11 @@
+Cat
+57.403
+House
+38.513
+Stairway
+79.583
+Rabbit
+51.516
+Swan
+53.167
+Total Time: 280.181

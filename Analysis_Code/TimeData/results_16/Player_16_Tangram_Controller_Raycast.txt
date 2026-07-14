@@ -1,0 +1,11 @@
+Plane
+65.375
+Camel
+37.000
+House
+43.194
+Stairway
+51.208
+Butteryfly
+64.002
+Total Time: 260.779

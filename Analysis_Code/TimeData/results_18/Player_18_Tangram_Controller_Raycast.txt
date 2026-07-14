@@ -1,0 +1,11 @@
+House
+72.715
+Swan
+55.523
+Stairway
+53.287
+Bridge
+67.300
+Fish
+46.078
+Total Time: 294.903

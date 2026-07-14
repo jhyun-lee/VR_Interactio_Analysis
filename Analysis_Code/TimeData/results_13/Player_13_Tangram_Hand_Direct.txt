@@ -1,0 +1,11 @@
+Plane
+34.666
+Swan
+30.040
+House
+39.028
+Heart
+27.581
+Camel
+28.875
+Total Time: 160.191

@@ -1,0 +1,11 @@
+Cat
+42.235
+Rabbit
+41.971
+Tree
+35.152
+Swan
+44.374
+House
+29.610
+Total Time: 193.342

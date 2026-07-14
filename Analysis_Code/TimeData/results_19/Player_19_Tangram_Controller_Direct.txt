@@ -1,0 +1,11 @@
+Heart
+29.375
+Rocket
+26.431
+Crab
+45.693
+Butteryfly
+35.028
+Plane
+29.249
+Total Time: 165.776

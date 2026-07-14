@@ -1,0 +1,11 @@
+Swan
+40.941
+Rabbit
+41.233
+Crab
+30.331
+Plane
+30.970
+Cat
+42.164
+Total Time: 185.639

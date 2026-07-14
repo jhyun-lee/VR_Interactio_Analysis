@@ -1,0 +1,11 @@
+Stairway
+48.583
+Swan
+29.292
+Cat
+45.625
+Plane
+26.819
+House
+23.750
+Total Time: 174.069

@@ -1,0 +1,11 @@
+Tree
+72.286
+Rocket
+54.802
+Mountains
+55.691
+Heart
+35.232
+Cat
+47.995
+Total Time: 266.006

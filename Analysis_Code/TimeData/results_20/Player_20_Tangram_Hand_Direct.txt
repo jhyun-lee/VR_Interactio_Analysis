@@ -1,0 +1,11 @@
+Cat
+50.584
+Tree
+48.930
+Fish
+38.235
+Stairway
+51.332
+House
+48.083
+Total Time: 237.165

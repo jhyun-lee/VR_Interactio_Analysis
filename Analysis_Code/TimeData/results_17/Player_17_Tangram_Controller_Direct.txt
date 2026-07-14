@@ -1,0 +1,11 @@
+Butteryfly
+35.344
+Bridge
+28.456
+Camel
+31.509
+Stairway
+22.707
+Heart
+23.526
+Total Time: 141.542

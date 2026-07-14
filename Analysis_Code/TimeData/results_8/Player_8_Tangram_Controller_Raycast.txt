@@ -1,0 +1,11 @@
+Rocket
+49.722
+Butteryfly
+61.041
+Stairway
+64.458
+Tree
+36.695
+Camel
+27.082
+Total Time: 238.998

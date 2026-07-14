@@ -1,0 +1,11 @@
+Rocket
+50.485
+Butteryfly
+36.527
+House
+52.347
+Plane
+38.236
+Mountains
+33.013
+Total Time: 210.609

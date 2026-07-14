@@ -1,0 +1,11 @@
+Camel
+38.222
+Stairway
+37.083
+Heart
+37.764
+Swan
+43.778
+Rocket
+36.417
+Total Time: 193.264

@@ -1,0 +1,11 @@
+Heart
+44.791
+Fish
+81.389
+Butteryfly
+48.500
+Rocket
+30.222
+Crab
+26.221
+Total Time: 231.123

@@ -1,0 +1,11 @@
+Rocket
+47.613
+Crab
+47.721
+Rabbit
+61.222
+Plane
+44.707
+Heart
+35.709
+Total Time: 236.972

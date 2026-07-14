@@ -1,0 +1,11 @@
+Plane
+67.343
+Bridge
+61.922
+Fish
+56.510
+Tree
+55.245
+Rocket
+47.565
+Total Time: 288.586

@@ -1,0 +1,11 @@
+House
+52.444
+Heart
+50.514
+Butteryfly
+73.278
+Plane
+59.361
+Fish
+87.429
+Total Time: 323.025

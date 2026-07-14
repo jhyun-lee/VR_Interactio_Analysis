@@ -1,0 +1,11 @@
+Camel
+40.070
+Stairway
+38.985
+Plane
+33.069
+Mountains
+33.123
+Bridge
+45.305
+Total Time: 190.552

@@ -1,0 +1,11 @@
+Heart
+33.402
+Cat
+32.597
+Swan
+35.458
+Bridge
+31.152
+Crab
+28.735
+Total Time: 161.344

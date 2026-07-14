@@ -1,0 +1,11 @@
+Bridge
+81.582
+Cat
+46.638
+Rabbit
+56.625
+House
+57.986
+Fish
+95.764
+Total Time: 338.595
