@@ -43,7 +43,7 @@ A data analysis pipeline that statistically compares and visualizes user experie
 
 ### 1. Master survey workbook (`VR_Interactions_En.xlsx`)
 
-Raw survey responses and summary analysis | [👉 Open in Google Sheets](https://docs.google.com/spreadsheets/d/101oOURndPKaQ86eVRk13mVtfGzbAHlX7VOADIec8h7g/edit?gid=565853200#gid=565853200)
+Raw survey responses and summary analysis | [👉 Open in Google Sheets](https://docs.google.com/spreadsheets/d/1UiEFbudfFNbgWhjnIIWW4XTupsgSjsMh/edit?usp=sharing&ouid=118400151619862303386&rtpof=true&sd=true)
 
 | Sheet | Description |
 | :--- | :--- |
